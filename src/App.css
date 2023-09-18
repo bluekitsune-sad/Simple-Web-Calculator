@@ -1,0 +1,13 @@
+html {
+  background-image: url(./component/assets/background.jpg);
+  background-position: center;
+  background-size: 150%;
+  background-color: #918f8f;
+}
+.App {
+  display: grid;
+  place-items: center;
+}
+.app-body {
+  margin: 50px;
+}
